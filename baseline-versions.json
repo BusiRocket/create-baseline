@@ -1,0 +1,5 @@
+{
+  "@vibracomet/eslint-config": "^0.1.0",
+  "@vibracomet/prettier-config": "^0.1.0",
+  "@vibracomet/tsconfig": "^0.1.0"
+}
